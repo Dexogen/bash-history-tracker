@@ -1,5 +1,4 @@
 # bash-history-tracker
-Extended Bash History
 This is a simple script to expand the fuctionality of the bash history. Just place it in /usr/local/bin/ with +x permissons.
  
 #### Turn On Color Prompt for root.
